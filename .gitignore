@@ -1,2 +1,4 @@
 _dev/
 visualization/output/
+visualization/build/
+*.csv
